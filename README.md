@@ -13,7 +13,6 @@
 ## **程序问题**<br>
 · 进入存档或开始游戏后， `ESC-选项-显示设置-高级` 点击时崩溃<br>
 · 进入存档或开始游戏后， `ESC-退出游戏-确定` 点击时崩溃<br>
-<<<<<<< HEAD
 · （触发方式未知）字符之间空格的字距超级大 <br>
 ![image](https://github.com/Lzh102938/GTASA-Alien-City.CHS-TEXT/blob/main/%E5%9B%BE%E5%BA%8A/%E5%AD%97%E7%AC%A6%E9%97%B4%E8%B7%9D%E5%A4%A7.png)<br>
 <br>
