@@ -240,7 +240,6 @@
 0ABF681C=UNBOUND
 0ACE3BD3=Dave Bruce
 0AD066A9=Royal Casino
-0AD066A9=Royal Casino
 0AD8936F=Alien Side Skirts
 0AE80B80=Thanks To
 0AED5613=Minimum
@@ -16840,4 +16839,3 @@ F28F70BF=~z~Shite, Carl, this bandit's nearly had it!
 F5050C8B=~z~Carl, grab a bomb and get rid of any tanks that threaten our progress!
 F9292508=~z~It's funny... I've never noticed before
 FE44E111=~z~It's a fight to the death! Come hither!
-
