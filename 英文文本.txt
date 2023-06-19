@@ -5848,7 +5848,7 @@ BD421892=~s~Put the goods in the ~b~truck~s~.
 CA452804=~s~Go and offload the goods at the ~y~lockup~s~.
 CA9DDA3E=Burglary mission ended.
 D35E1945=~s~This load: ~1~ items $~1~
-F2038E55=~s~Take the item back to the truck.
+F2038E55=~s~Take tghe item back to the truck.
 F56E4A4C=~r~You are out of time, come back another night and finish the job
 FFEA8EC7=~s~It's daylight! Not the time for home invasions! Go and offload what you've already stolen within the time limit!
 
