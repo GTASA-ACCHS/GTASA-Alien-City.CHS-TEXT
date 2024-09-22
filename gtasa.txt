@@ -1459,7 +1459,7 @@
 43BC3318=Can't detect you. Try to go near the road.
 43D3A015=~z~哈喽，克劳德，宝贝。
 43D9890A=~z~不，谢谢。
-440B851C=主菜单~n~~y~acchs build 1.0 BETA
+440B851C=主菜单~n~~y~外星都市·尝鲜汉化
 440F9BB5=运动图形
 440FC35A=X-Flow 扰流板
 441724B2=快照拍摄
